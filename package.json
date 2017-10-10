@@ -1,5 +1,5 @@
 {
-  "name": "ass",
+  "name": "ass_arti",
   "version": "1.0.0",
   "description": "This is a tool for hard replication in artifactory",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "ass": "index.js"
+    "ass_arti": "index.js"
   },
   "author": "Sebastian Liu",
   "license": "MIT"
