@@ -1,9 +1,14 @@
 # ass
 This is a tool for hard replication in artifactory
 
+## install
+```$xslt
+npm install ass_arti -g
+```
+
 ## usage
 ```
-ass -h
+ass_arti -h
 
   Usage: ass [options]
 
@@ -21,7 +26,7 @@ ass -h
 ```
 
 ```
-ass -u username -P password -a https://artifactory.host.name -r target-repo -p /your/path -f file01,file02,file03
+ass_arti -u username -P password -a https://artifactory.host.name -r target-repo -p /your/path -f file01,file02,file03
 ```
 
 ## attention
