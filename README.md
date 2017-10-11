@@ -1,4 +1,4 @@
-# ass
+# ass_arti
 This is a tool for hard replication in artifactory
 
 ## install
